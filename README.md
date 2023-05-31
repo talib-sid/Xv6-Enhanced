@@ -69,7 +69,7 @@ s-trace command is of the form :
 
 Output of strace is in the following form :
 
->                    "pid of process" : syscall "name_of_syscall" ([decimal value of arguments in registers])-> "return value"
+> "pid of process" : syscall "name_of_syscall" ([decimal value of arguments in registers])-> "return value"
 
 
 ## Sigalarm and Sigreturn
